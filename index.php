@@ -7,11 +7,13 @@
         <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
         <meta name="language" content="es"/>
 
-        <title>Landing Fazil Chile</title>
-        <meta name="description" content="Landing Fazil Chile" />
+        <title>Fazil</title>
+        <meta name="description" content="Fazil el mejor servicio de delivery on demand. Del local a la puerta de tu casa en minutos. Tercerizar tu delivery y olvidate de los problemas." />
         <link href="https://fonts.googleapis.com/css?family=Poppins%3Ai%2Cbi%2C700%2C500%2C400&amp;display=swap" rel="stylesheet" nonce="">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+
+
 
         <link rel="stylesheet" type="text/css" href="css/reset.css" />
         <link rel="stylesheet" type="text/css" href="css/estructura.css" />
@@ -44,20 +46,6 @@
                             </div>
                         </div>
 
-                        <!-- INICIO SEARCH HEADER DESKTOP -->
-                        <div class="search-container hide">
-                            <div class="link-search"></div>
-                            <div class="search-bar">
-
-                                <form action="">
-                                    <i class="fa fa-search fa-lg"></i>
-                                    <input type="text" placeholder="Busca en este sitio web">
-                                </form>
-                            </div>
-                            <div class="link-close"><i class="fa fa-times fa-2x" aria-hidden="true"></i></div>
-                        </div>
-                        <!-- FIN SEARCH HEADER DESKTOP -->
-
                     </div>
 
                     <div class="header-menu-mobil">
@@ -74,20 +62,6 @@
                                 </div>
                             </div>
 
-                            <!-- INICIO SEARCH HEADER MOBIL -->
-                            <div class="search-container hide">
-                                <div class="link-search"></div>
-                                <div class="search-bar">
-
-                                    <form action="">
-                                        <i class="fa fa-search fa-lg"></i>
-                                        <input type="text" placeholder="Busca en este sitio web">
-                                    </form>
-                                </div>
-                                <div class="link-close"><i class="fa fa-times fa-2x" aria-hidden="true"></i></div>
-                            </div>
-                            <!-- FIN SEARCH HEADER MOBIL -->
-
                     </div>
                     
                 </div>
@@ -96,47 +70,10 @@
 
                     <div class="menu-lista-items">
                         <ul>
-                            <li class="item-menu"><a href="#">Inicio</a></li>
-                            <li class="item-menu"><i class="fa fa-angle-down fa-lg"></i><a href="#">Manual de contenido</a>
-                                <ul class="menu-lista-items-container">
-                                    <li class="item"><i class="fa fa-angle-down fa-lg"></i><a href="#">Mercado Fácil</a>
-                                        <ul class="menu-lista-sub-items-container">
-                                            <li class="item"><a href="#">Bebidas y Licores</a></li>
-                                            <li class="item"><a href="#">Carnes y Pescados</a></li>
-                                            <li class="item"><a href="#">Comida Lista Congelada</a></li>
-                                            <li class="item"><a href="#">Frutas y Verduras</a></li>
-                                            <li class="item"><a href="#">Market</a></li>
-                                            <li class="item"><a href="#">Nutrición y Bienestar</a></li>
-                                            <li class="item"><a href="#">Postres y Helados</a></li>
-                                            <li class="item"><a href="#">Tiendas Saludables</a></li>
-                                            <li class="item"><a href="#">Tiendas Gourmet</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="item"><i class="fa fa-angle-down fa-lg"></i><a href="#">Pídelo Fácil</a>
-                                        <ul class="menu-lista-sub-items-container">
-                                            <li class="item"><a href="#">Bebés y Niños</a></li>
-                                            <li class="item"><a href="#">Belleza</a></li>
-                                            <li class="item"><a href="#">Fitness</a></li>
-                                            <li class="item"><a href="#">Flores y Regalos</a></li>
-                                            <li class="item"><a href="#">Librería</a></li>
-                                            <li class="item"><a href="#">Mascotas</a></li>
-                                            <li class="item"><a href="#">Más tiendas</a></li>
-                                            <li class="item"><a href="#">Salud / Farmacias</a></li>
-                                            <li class="item"><a href="#">Tecnología</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li class="item-menu"><i class="fa fa-angle-down fa-lg"></i><a href="#">Tutoriales</a>
-                                <ul class="menu-lista-items-container">
-                                    <li class="item"><a href="#">Instaleap</a></li>
-                                    <li class="item"><a href="#">Automy</a></li>
-                                    <li class="item"><a href="#">Facturación</a></li>
-                                    <li class="item"><a href="#">Vendor Center</a></li>
-                                    <li class="item"><a href="#">Logística Inversa</a></li>
-                                    <li class="item"><a href="#">Notificaciones Habladas</a></li>
-                                </ul>
-                            </li>
+                            <li><a href="#bloque_beneficios">BENEFICIOS</a></li>
+                            <li><a href="#bloque_como_funciona">¿CÓMO FUNCIONA?</a></li>
+                            <li><a href="#bloque_cobertura_peru">COBERTURA</a></li>
+                            <li><a href="terminos_condiciones_fazil.html">TÉRMINOS Y CONDICIONES</a></li>
                         </ul>
                     </div>
 
@@ -146,203 +83,295 @@
 
             </section>
 
-            <section class="ttl-landing-guidelines-banner-principal padding-bottom-40">
+            <section class="ttl-landing-guidelines-banner-principal position-relative">
               
               <picture>
-                <source media="(min-width:992px)" srcset="https://images.ctfassets.net/efpn4u8cnuye/nCdE0oTfJ7TaM3TFybe6d/caf58add78ebdc2b3de903a1129c117e/guidelinesSellerHeaderDesktop.jpg">
-                <source media="(min-width:768px)" srcset="https://images.ctfassets.net/efpn4u8cnuye/nCdE0oTfJ7TaM3TFybe6d/caf58add78ebdc2b3de903a1129c117e/guidelinesSellerHeaderDesktop.jpg">
-                <source media="(min-width:320px)" srcset="https://images.ctfassets.net/efpn4u8cnuye/7FtLFfpCxXrlhzJKZEgJpP/17119885f4bd86ecf95b7cddb238d7df/guidelinesSellerHeaderMobil.jpg">
-                <img class="img-fondo width-100" src="https://images.ctfassets.net/efpn4u8cnuye/nCdE0oTfJ7TaM3TFybe6d/caf58add78ebdc2b3de903a1129c117e/guidelinesSellerHeaderDesktop.jpg">
+                <source media="(min-width:992px)" srcset="https://images.ctfassets.net/3l9pjbe21mqv/7KMiRw8mNEC0txKGoxmVqD/8a0c09be39667e59ec33f80de8b10a9c/bloque_1_landing_fazil_desktop.jpg">
+                <source media="(min-width:768px)" srcset="https://images.ctfassets.net/3l9pjbe21mqv/7KMiRw8mNEC0txKGoxmVqD/8a0c09be39667e59ec33f80de8b10a9c/bloque_1_landing_fazil_desktop.jpg">
+                <source media="(min-width:320px)" srcset="https://images.ctfassets.net/3l9pjbe21mqv/1JxJzhziX41BsMlTjOBkqd/41b3a95ea891695ac22fed7f4fb795e8/bloque_1_landing_fazil_mobile.jpg">
+                <img class="img-fondo width-100" src="https://images.ctfassets.net/3l9pjbe21mqv/7KMiRw8mNEC0txKGoxmVqD/8a0c09be39667e59ec33f80de8b10a9c/bloque_1_landing_fazil_desktop.jpg">
               </picture> 
+
+              <div class="ttl-landing-banner-principal-botom">
+
+                <ul class="ttl-landing-banner-principal-botom-lista">
+                    <li><a href="https://urldefense.com/v3/__https://play.google.com/store/apps/details?id=com.tottus__;!!N96JrnIq8IfO5w!y4qrF15EOynOslWFnm-U2xdexDjXu9ZNgrobkgDLix1yZ18ze_Wafh85fCgzPvRa5_1lfw$"><img class="banner-principal-botom-imagen" src="https://images.ctfassets.net/3l9pjbe21mqv/4NodkJw4ZlwlDzO4aUKoKd/4e8aad548c77d718a48c95b5fa712222/rrss_1.png"></a></li>
+                    <li><a href="https://urldefense.com/v3/__https://apps.apple.com/cl/app/fazil/id1476096203__;!!N96JrnIq8IfO5w!y4qrF15EOynOslWFnm-U2xdexDjXu9ZNgrobkgDLix1yZ18ze_Wafh85fCgzPvQL37cG8A$"><img class="banner-principal-botom-imagen" src="https://images.ctfassets.net/3l9pjbe21mqv/2aYMta9PxGPc7IStZvm90I/6f092db19557bacffdafe4e69ac08589/rrss_2.png"></a></li>
+                </ul>
+                  
+              </div>
 
             </section>
 
-            <div class="container">
+            <section class="ttl-landing-guidelines-caracteristicas padding-bottom-30">
 
-                <section class="ttl-landing-guidelines-dudas">
-
-                    <div class="ttl-landing-guidelines-dudas-container padding-bottom-40">
-                        
-                        <p>Resuelve tus principales dudas sobre:</p>
-
-                    </div>
-
-                    <div>
-                    
-                        <div class="row">
-                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
-                                <div class="ttl-landing-guidelines-dudas-item">
-                                  <a href="https://sites.google.com/view/contenidofazil/manual-de-contenido">
-                                    <img class="width-100" src="https://images.ctfassets.net/efpn4u8cnuye/3f9mfu0JRSfCZu2lqKbxXL/b4ff46d1bcbc022e54081eb280f0fda7/Botones_562x246-OK-01.jpg">
-                                    <p>Contenido y fotografía</p>
-                                  </a>
-                                </div>
-                            </div>
-                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
-                                <div class="ttl-landing-guidelines-dudas-item">
-                                  <a href="https://sites.google.com/view/contenidofazil/tutoriales">
-                                    <img class="width-100" src="https://images.ctfassets.net/efpn4u8cnuye/1rqyMCG2wphNc4JSk5tA9H/b92efe50c992f20152927070a7b81598/Botones_562x246-OK-02.jpg">
-                                    <p>Procesos y tutoriales</p>
-                                  </a>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </section>  
-
-                <!--
-                <section class="ttl-landing-guidelines-categorias padding-bottom-40">
-
-                    <div>
-                    
-                        <div class="row">
-                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
-                                <div class="ttl-landing-guidelines-categorias-item">
-                                    <img class="width-100" src="https://images.ctfassets.net/efpn4u8cnuye/3xcaPlWsqCdnlB1IXqlKe4/e20a5e8d167b9d9e3efae221c7d78eac/bebidas_licores.jpeg">
-                                    <p>Bebidas y Licores</p>
-                                </div>
-                            </div>
-                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
-                                <div class="ttl-landing-guidelines-categorias-item">
-                                    <img class="width-100" src="https://images.ctfassets.net/efpn4u8cnuye/2mXivanAwN9xFkV8AW1e0/ca9d291062bb6879500dad594c593150/carniceria_pescado.jpeg">
-                                    <p>Carnes y Pescados</p>
-                                </div>
-                            </div>
-                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
-                                <div class="ttl-landing-guidelines-categorias-item">
-                                    <img class="width-100" src="https://images.ctfassets.net/efpn4u8cnuye/5AtwEfOC0Lh1A0E2BJLiyl/223ff37b8f92bf2e4bf16043e92e595c/Comida Lista Congelada.jpeg">
-                                    <p>Comida Lista Congelada</p>
-                                </div>
-                            </div>
-                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
-                                <div class="ttl-landing-guidelines-categorias-item">
-                                    <img class="width-100" src="https://images.ctfassets.net/efpn4u8cnuye/3MCe6ICUHebEJq8gFdJM81/b38d79368cb61d812f0438d584ee9fc5/frutas_verduras.jpeg">
-                                    <p>Frutas y Verduras</p>
-                                </div>
-                            </div>
-                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
-                                <div class="ttl-landing-guidelines-categorias-item">
-                                    <img class="width-100" src="https://images.ctfassets.net/efpn4u8cnuye/32xfcSsElBtU6B4i4m5scD/a98242c7e5b62f9e484d297655bc1fa3/Market.jpeg">
-                                    <p>Market</p>
-                                </div>
-                            </div>
-                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
-                                <div class="ttl-landing-guidelines-categorias-item">
-                                    <img class="width-100" src="https://images.ctfassets.net/efpn4u8cnuye/7FiR60w7L22SslsaMElQyK/63d81b84584ce5c37c6b66f44726321c/nutricion_deportiva.jpeg">
-                                    <p>Nutrición y Bienestar</p>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </section>
-                
-                <section class="ttl-landing-guidelines-banner-01 padding-bottom-40">
-
-                    <div>
-                    
-                        <div class="row">
-                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
-                                <div class="ttl-landing-guidelines-banner-01-item">
-                                    <img class="width-100" src="https://images.ctfassets.net/efpn4u8cnuye/2UKIK2UxdT5NC5DUYDUC2A/333cc86b4b7eb5dd2953c9aa01dff132/banner_gaseosas.png">
-                                </div>
-                            </div>
-                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
-                                <div class="ttl-landing-guidelines-banner-01-item">
-                                    <img class="width-100" src="https://images.ctfassets.net/efpn4u8cnuye/4lvaH8LVQCY6I5Sx7jbYQe/27992b0cc8a3c0643c0b85682e59fec6/banner_vinos.png">
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </section>
-
-                <section class="ttl-landing-guidelines-banner-02 padding-bottom-40">
-
-                    <div>
-                    
-                        <div class="row">
-                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
-                                <div class="ttl-landing-guidelines-banner-01-item">
-                                    <img class="width-100" src="https://images.ctfassets.net/efpn4u8cnuye/7Iw3Jf6NSEdJM50IK4Wway/1d94e75d7fa5b1ee96bb3753528e1417/banner_champan.png">
-                                </div>
-                            </div>
-                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
-                                <div class="ttl-landing-guidelines-banner-01-item">
-                                    <img class="width-100" src="https://images.ctfassets.net/efpn4u8cnuye/6fCqeWUYGdXlJAX9zgWig0/3226f21817d43aebb116bdd784efec7a/banner_vino_vaso.png">
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-
-                </section>
-
-                <section class="ttl-landing-guidelines-videos padding-bottom-40">
-
-                    <div>
+                <div class="container">
                     
                         <div class="row justify-content-center">
-                            <div class="col-4">
-                                <div class="ttl-landing-guidelines-videos-item">
-                                    <img class="width-100" src="https://images.ctfassets.net/efpn4u8cnuye/4fHp999ITw8jV8JJwlaJ7z/b0a0829289b714d0d7cbd8a5ed41f085/instaleap.jpeg">
-                                    <p class="videos-item-descripcion">Instaleap: ¿Cómo descargar y utilizar la Picker App?</p>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
+                                <div class="ttl-landing-guidelines-caracteristicas-item">
+                                    <div class="text-center">
+                                        <img src="https://fazil-app.com/images/facil.png">
+                                    </div>
+                                    <p class="caracteristicas-item-descripcion">Queremos que tus problemas sean realmente fáciles de solucionar. Por eso, contamos con una aplicación simple de navegar para que encuentres todo lo que necesites.</p>
                                 </div>
                             </div>
-                            <div class="col-4">
-                                <div class="ttl-landing-guidelines-videos-item">
-                                    <img class="width-100" src="https://images.ctfassets.net/efpn4u8cnuye/5UeIlZboKEVvyGamWJd8XF/4a42cb191fe9ced86aa549fb5e80fbaf/notificaciones_habladas.jpeg">
-                                    <p class="videos-item-descripcion">Notificaciones habladas: ¿cómo utilizar el app?</p>
-                                </div>
-                            </div>
-                            
-                            <div class="col-4">
-                                <div class="ttl-landing-guidelines-videos-item">
-                                    <img class="width-100" src="https://images.ctfassets.net/efpn4u8cnuye/2BRFMASCmy4XuwFdqF6SOG/df4b4e45e3a1c6360cd0e61cffe7ccd2/automy.jpeg">
-                                    <p class="videos-item-descripcion">Automy: ¿Cómo crear tus SKU's?</p>
-                                </div>
-                            </div>
-                            <div class="col-4">
-                                <div class="ttl-landing-guidelines-videos-item">
-                                    <img class="width-100" src="https://images.ctfassets.net/efpn4u8cnuye/5UeIlZboKEVvyGamWJd8XF/4a42cb191fe9ced86aa549fb5e80fbaf/notificaciones_habladas.jpeg">
-                                    <p class="videos-item-descripcion">Notificaciones habladas: ¿cómo utilizar el app?</p>
+                        
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
+                                <div class="ttl-landing-guidelines-caracteristicas-item">
+                                    <div class="text-center">
+                                        <img src="https://fazil-app.com/images/rapido.png">
+                                    </div>
+                                    <p class="caracteristicas-item-descripcion">No queremos que te desesperes esperando. Por eso contamos con un equipo listo para entregarte tus productos en la menor cantidad de tiempo posible.</p>
                                 </div>
                             </div>
                             
-                            <div class="col-4">
-                                <div class="ttl-landing-guidelines-videos-item">
-                                    <img class="width-100" src="imgs/instaleap.jpeg">
-                                    <p class="videos-item-proximamente">(Próximamente)</p>
-                                    <p class="videos-item-descripcion">Vendor Center: ¿cómo actualizar tu stock y precios?</p>
-                                </div>
-                            </div>
-                            <div class="col-4">
-                                <div class="ttl-landing-guidelines-videos-item">
-                                    <img class="width-100" src="imgs/automy.jpeg">
-                                    <p class="videos-item-proximamente">(Próximamente)</p>
-                                    <p class="videos-item-descripcion">Conoce el proceso de logística inversa y devoluciones</p>
-                                </div>
-                            </div>
-                            <div class="col-4">
-                                <div class="ttl-landing-guidelines-videos-item">
-                                    <img class="width-100" src="imgs/notificaciones_habladas.jpeg">
-                                    <p class="videos-item-proximamente">(Próximamente)</p>
-                                    <p class="videos-item-descripcion">Conoce el proceso de facturación</p>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
+                                <div class="ttl-landing-guidelines-caracteristicas-item">
+                                    <div class="text-center">
+                                        <img src="https://fazil-app.com/images/amigable.png">
+                                    </div>
+                                    <p class="caracteristicas-item-descripcion">Estamos para ayudarte y nos mantendremos en constante comunicación hasta el destino final de tu pedido.</p>
                                 </div>
                             </div>
                             
                         </div>
 
+                </div>
+
+            </section>
+
+            <section class="ttl-landing-guidelines-cobertura padding-bottom-30">
+
+                <div class="container">
+
+                    <p class="ttl-landing-guidelines-cobertura-titulo">NUESTRA COBERTURA</p>
+                    <p class="ttl-landing-guidelines-pais-titulo">CHILE</p>
+                    
+                    
+                    <div class="row justify-content-center padding-bottom-30">
+
+                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+
+                            <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1AZ_gWMWB4siuRGeVvRXmMBE4jGaAv5Mw&ll=-30.460717436073804%2C-71.75426305&z=6" 
+                    class="cobertura-chile-map-desktop" frameborder="0"></iframe>   
+
+                        </div>
+                            
                     </div>
 
-                </section>
-                -->
+                </div>
 
-            </div>   
+                <div class="ttl-landing-cobertura-container-lista-mobil">
+
+                    <div class="container">
+
+                        <button type="button" class="collapsible collapsible-titulo"><span>✓</span>REGIÓN METROPOLITANA <i class="fa fa-caret-down fa-lg"></i></button>
+                        <div class="content">
+                            <ul class="ttl-landing-cobertura-lista">
+                                <li><span>Maipú</span></li>
+                                <li><span>Peñaflor</span></li>
+                                <li><span>La Florida</span></li>
+                                <li><span>Chicureo</span> (Chicureo, Piedra Roja y Chamisero)</li>
+                                <li><span>La Reina</span></li>
+                                <li><span>Las Condes</span></li>
+                                <li><span>Lo Barnechea</span> (Los Trapenses y Pie Andino)</li>
+                                <li><span>Macul</span> (Av. Macul y Rodrigo de Araya)</li>
+                                <li><span>Ñuñoa</span> (Irarrázaval, Plaza Ñuñoa, Rodrigo de Araya)</li>
+                                <li><span>Peñalolén</span> (Quilín)</li>
+                                <li><span>Providencia</span></li>
+                                <li><span>Vitacura</span></li>
+                                <li><span>Santiago Centro</span></li>
+                                <li><span>Independencia</span></li>
+                                <li><span>Puente Alto</span></li>
+                                <li><span>San Miguel</span></li>
+                                <li><span>Macul</span></li>
+                                <li><span>Estación Central</span></li>
+                                <li><span>La Cisterna</span></li>
+                                <li><span>Recoleta</span></li>
+                                <li><span>Huechuraba</span> (Pedro Fontova / Ciudad Empresarial)</li>
+                                <li><span>Quilicura</span> (Valle Lo Campino)</li>
+                                <li><span>Quinta Normal</span></li>
+                                <li><span>El Bosque</span></li>
+                                <li><span>Cerrillos</span></li>
+                                <li><span>Colina</span></li>
+                                <li><span>San Joaquín</span></li>
+                                <li><span>Buin</span></li>
+                                <li><span>Padre Hurtado</span></li>
+                                <li><span>Talagante</span></li>
+                                <li><span>Tottus Kennedy</span></li>
+                                <li><span>Tottus Talagante</span></li>
+                            </ul>
+                        </div>
+                        <button type="button" class="collapsible collapsible-titulo"><span>✓</span>II REGIÓN <i class="fa fa-caret-down fa-lg"></i></button>
+                        <div class="content">
+                            <ul class="ttl-landing-cobertura-lista">
+                                <li><span>Antofagasta</span></li>
+                            </ul>
+                        </div>
+                        <button type="button" class="collapsible collapsible-titulo"><span>✓</span>IV REGIÓN <i class="fa fa-caret-down fa-lg"></i></button>
+                        <div class="content">
+                            <ul class="ttl-landing-cobertura-lista">
+                                <li><span>La Serena</span></li>
+                            </ul>
+                        </div>
+                        <button type="button" class="collapsible collapsible-titulo"><span>✓</span>V REGIÓN <i class="fa fa-caret-down fa-lg"></i></button>
+                        <div class="content">
+                            <ul class="ttl-landing-cobertura-lista">
+                                <li><span>Viña del Mar</span></li>
+                                <li><span>Concón</span></li>
+                                <li><span>Reñaca</span></li>
+                                <li><span>Maitencillo</span></li>
+                                <li><span>Zapallar</span></li>
+                                <li><span>Cachagua</span></li>
+                            </ul>
+                        </div>
+                        <button type="button" class="collapsible collapsible-titulo"><span>✓</span>VIII REGIÓN <i class="fa fa-caret-down fa-lg"></i></button>
+                        <div class="content">
+                            <ul class="ttl-landing-cobertura-lista">
+                                <li><span>Concepción</span></li>
+                            </ul>
+                        </div>
+                        <button type="button" class="collapsible collapsible-titulo"><span>✓</span>SODIMAC <i class="fa fa-caret-down fa-lg"></i></button>
+                        <div class="content">
+                            <ul class="ttl-landing-cobertura-lista">
+                                <li><span>Las Condes</span></li>
+                                <li><span>Lo Barnechea</span></li>
+                                <li><span>Vitacura</span></li>
+                                <li><span>Santiago</span></li>
+                                <li><span>Ñuñoa</span></li>
+                                <li><span>Providencia</span></li>
+                                <li><span>Macul</span></li>
+                                <li><span>Maipu</span></li>
+                                <li><span>Cerrillos</span></li>
+                            </ul>
+                        </div>
+                        <button type="button" class="collapsible collapsible-titulo"><span>✓</span>FALABELLA <i class="fa fa-caret-down fa-lg"></i></button>
+                        <div class="content">
+                            <ul class="ttl-landing-cobertura-lista">
+                                <li><span>Las Condes</span></li>
+                                <li><span>Lo Barnechea</span></li>
+                                <li><span>Vitacura</span></li>
+                                <li><span>Puente Alto</span></li>
+                                <li><span>Maipu</span></li>
+                                <li><span>Cerrillos</span></li>
+                            </ul>
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="container">
+
+                    <div class="ttl-landing-cobertura-container-lista-desktop">
+                        
+                        <div class="row">
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
+                                <div class="ttl-landing-cobertura-items-desktop">
+                                    <p class="cobertura-item-titulo"><span>✓</span>REGIÓN METROPOLITANA</p>
+                                    <ul class="ttl-landing-cobertura-item-desktop">
+                                        <li><span>Maipú</span></li>
+                                        <li><span>Peñaflor</span></li>
+                                        <li><span>La Florida</span></li>
+                                        <li><span>Chicureo</span> (Chicureo, Piedra Roja y Chamisero)</li>
+                                        <li><span>La Reina</span></li>
+                                        <li><span>Las Condes</span></li>
+                                        <li><span>Lo Barnechea</span> (Los Trapenses y Pie Andino)</li>
+                                        <li><span>Macul</span> (Av. Macul y Rodrigo de Araya)</li>
+                                        <li><span>Ñuñoa</span> (Irarrázaval, Plaza Ñuñoa, Rodrigo de Araya)</li>
+                                        <li><span>Peñalolén</span> (Quilín)</li>
+                                        <li><span>Providencia</span></li>
+                                        <li><span>Vitacura</span></li>
+                                        <li><span>Santiago Centro</span></li>
+                                        <li><span>Independencia</span></li>
+                                        <li><span>Puente Alto</span></li>
+                                        <li><span>San Miguel</span></li>
+                                        <li><span>Macul</span></li>
+                                        <li><span>Estación Central</span></li>
+                                        <li><span>La Cisterna</span></li>
+                                        <li><span>Recoleta</span></li>
+                                        <li><span>Huechuraba</span> (Pedro Fontova / Ciudad Empresarial)</li>
+                                        <li><span>Quilicura</span> (Valle Lo Campino)</li>
+                                        <li><span>Quinta Normal</span></li>
+                                        <li><span>El Bosque</span></li>
+                                        <li><span>Cerrillos</span></li>
+                                        <li><span>Colina</span></li>
+                                        <li><span>San Joaquín</span></li>
+                                        <li><span>Buin</span></li>
+                                        <li><span>Padre Hurtado</span></li>
+                                        <li><span>Talagante</span></li>
+                                        <li><span>Tottus Kennedy</span></li>
+                                        <li><span>Tottus Talagante</span></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
+                                <div class="ttl-landing-cobertura-items-desktop">
+                                    <p class="cobertura-item-titulo"><span>✓</span>II REGIÓN</p>
+                                    <ul class="ttl-landing-cobertura-item-desktop">
+                                        <li><span>Antofagasta</span></li>
+                                    </ul>
+
+                                    <p class="cobertura-item-titulo"><span>✓</span>IV REGIÓN</p>
+                                    <ul class="ttl-landing-cobertura-item-desktop">
+                                        <li><span>La Serena</span></li>
+                                    </ul>
+
+                                    <p class="cobertura-item-titulo"><span>✓</span>V REGIÓN</p>
+                                    <ul class="ttl-landing-cobertura-item-desktop">
+                                        <li><span>Viña del Mar</span></li>
+                                        <li><span>Concón</span></li>
+                                        <li><span>Reñaca</span></li>
+                                        <li><span>Maitencillo</span></li>
+                                        <li><span>Zapallar</span></li>
+                                        <li><span>Cachagua</span></li>
+                                    </ul>
+
+                                    <p class="cobertura-item-titulo"><span>✓</span>VIII REGIÓN</p>
+                                    <ul class="ttl-landing-cobertura-item-desktop">
+                                        <li><span>Concepción</span></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
+                                <div class="ttl-landing-cobertura-items-desktop">
+                                    <p class="cobertura-item-titulo"><span>✓</span>SODIMAC</p>
+                                    <ul class="ttl-landing-cobertura-item-desktop">
+                                        <li><span>Las Condes</span></li>
+                                        <li><span>Lo Barnechea</span></li>
+                                        <li><span>Vitacura</span></li>
+                                        <li><span>Santiago</span></li>
+                                        <li><span>Ñuñoa</span></li>
+                                        <li><span>Providencia</span></li>
+                                        <li><span>Macul</span></li>
+                                        <li><span>Maipu</span></li>
+                                        <li><span>Cerrillos</span></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
+                                <div class="ttl-landing-cobertura-items-desktop">
+                                    <p class="cobertura-item-titulo"><span>✓</span>FALABELLA</p>
+                                    <ul class="ttl-landing-cobertura-item-desktop">
+                                        <li><span>Las Condes</span></li>
+                                        <li><span>Lo Barnechea</span></li>
+                                        <li><span>Vitacura</span></li>
+                                        <li><span>Puente Alto</span></li>
+                                        <li><span>Maipu</span></li>
+                                        <li><span>Cerrillos</span></li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </section>
+
 
         </main>
 
@@ -412,32 +441,13 @@
         };
     }
 
-
-    const searchButton = document.querySelector(".header-menu .header-menu-items .link-search");
-    const closeButton = document.querySelector(".search-container .link-close");
     const desktopNav = document.querySelector(".header-menu");
     const desktopNavMobil = document.querySelector(".header-menu-mobil");
     const searchContainer = document.querySelector(".search-container");
     const overlay = document.querySelector(".overlay-theme");
 
-    const searchButtonMobil = document.querySelector(".header-menu-mobil .header-menu-items .link-search");
-    const closeButtonMobil = document.querySelector(".header-menu-mobil .search-container .link-close");
     const desktopNavBreackMobil = document.querySelector(".header-menu-mobil");
     const searchContainerMobil = document.querySelector(".header-menu-mobil .search-container");
-
-    searchButton.addEventListener("click", () => {
-        desktopNav.classList.add("hide");
-        desktopNavMobil.classList.add("hide");
-        searchContainer.classList.remove("hide");
-        overlay.classList.add("show");
-    })
-
-    closeButton.addEventListener("click", () => {
-        desktopNav.classList.remove("hide");
-        desktopNavMobil.classList.remove("hide");
-        searchContainer.classList.add("hide");
-        overlay.classList.remove("show");
-    })
 
     overlay.addEventListener("click", () => {
         desktopNav.classList.remove("hide");
@@ -446,17 +456,6 @@
         overlay.classList.remove("show");
     })
 
-    searchButtonMobil.addEventListener("click", () => {
-        desktopNavBreackMobil.classList.add("hide");
-        searchContainerMobil.classList.remove("hide");
-        overlay.classList.add("show");
-    })
 
-    closeButtonMobil.addEventListener("click", () => {
-        desktopNavBreackMobil.classList.remove("hide");
-        searchContainerMobil.classList.remove("hide");
-        searchContainerMobil.classList.add("hide");
-        overlay.classList.remove("show");
-    })
 
 </script>
