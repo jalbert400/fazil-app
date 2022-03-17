@@ -12,9 +12,6 @@
         <link href="https://fonts.googleapis.com/css?family=Poppins%3Ai%2Cbi%2C700%2C500%2C400&amp;display=swap" rel="stylesheet" nonce="">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
-
-
-
         <link rel="stylesheet" type="text/css" href="css/reset.css" />
         <link rel="stylesheet" type="text/css" href="css/estructura.css" />
     </head>
@@ -372,6 +369,246 @@
 
             </section>
 
+            <section style="background-color: #01fe4c">
+                
+                <div id="bloque_cobertura_peru" class="container">
+
+                    <div style="padding-bottom:50px; padding-top:40px; margin-bottom:0px" >
+                
+                    <div class="row">
+
+                      <p class="h4cobertura h4cobertura-pais" style="font-size: 40px;">PERÚ</p>
+                      <p class="h4cobertura h4cobertura-provincia">LIMA METROPOLITANA</p>
+                      <div class="flexbox-container">
+                        <div> 
+                          <p class="prov_cobertura"><span>&#10003;</span>Ate</p>
+                          <p class="prov_cobertura"><span>&#10003;</span>Barranco</p>
+                          <p class="prov_cobertura"><span>&#10003;</span>Breña</p>
+                          <p class="prov_cobertura"><span>&#10003;</span>Chorrillos</p>
+                          <p class="prov_cobertura"><span>&#10003;</span>Cercado de Lima</p>
+                          <p class="prov_cobertura"><span>&#10003;</span>Huaycán</p>
+                        </div>
+                        <div>
+                          <p class="prov_cobertura"><span>&#10003;</span>Independencia</p>
+                          <p class="prov_cobertura"><span>&#10003;</span>Jesús María</p>
+                          <p class="prov_cobertura"><span>&#10003;</span>Lince</p>
+                          <p class="prov_cobertura"><span>&#10003;</span>Los Olivos</p>
+                          <p class="prov_cobertura"><span>&#10003;</span>Miraflores</p>
+                          <p class="prov_cobertura"><span>&#10003;</span>Pueblo Libre</p>
+                        </div>
+                        <div>        
+                          <p class="prov_cobertura"><span>&#10003;</span>Magdalena del Mar</p>
+                          <p class="prov_cobertura"><span>&#10003;</span>San Borja</p>
+                          <p class="prov_cobertura"><span>&#10003;</span>San Isidro</p>
+                          <p class="prov_cobertura"><span>&#10003;</span>San Luis</p>
+                          <p class="prov_cobertura"><span>&#10003;</span>San Juan de Miraflores</p>
+                          <p class="prov_cobertura"><span>&#10003;</span>San Miguel</p>
+                        </div>
+                        <div>  
+                          <p class="prov_cobertura"><span>&#10003;</span>Santa Anita</p>
+                          <p class="prov_cobertura"><span>&#10003;</span>Santiago de Surco</p>  
+                          <p class="prov_cobertura"><span>&#10003;</span>San Juan de Lurigancho</p>
+                          <p class="prov_cobertura"><span>&#10003;</span>San Martin de Porres</p>
+                          <p class="prov_cobertura"><span>&#10003;</span>Surquillo</p>  
+                          <p class="prov_cobertura"><span>&#10003;</span>Villa el Salvador</p>                   
+                        </div>
+                        <div>    
+                          <p class="prov_cobertura"><span>&#10003;</span>Villa María del Triunfo</p>
+                          <p class="prov_cobertura"><span>&#10003;</span>Villa la Encantada</p>
+                        </div>
+                      </div>
+                      <p class="h4cobertura h4cobertura-provincia">PROV. CONST. DEL CALLAO</p>
+                      <div class="flexbox-container">
+                        <div>
+                          <p class="prov_cobertura"><span>&#10003;</span>Bellavista</p>
+                        </div>
+                        <div>
+                            <p class="prov_cobertura"><span>&#10003;</span>La perla</p>
+                        </div>
+                        <div>
+                            <p class="prov_cobertura"><span>&#10003;</span>Callao</p>
+                        </div>
+                        <div>
+                            <p class="prov_cobertura"><span>&#10003;</span>Carmen de la Legua Reynoso</p>
+                        </div>
+                        <div></div>
+                      </div>
+                      
+                      <!-- <iframe src="https://www.google.com/maps/d/embed?mid=1KQ4qbayXSR6e2TQNCNPk7Fs0_nw5qiaz" width="640" height="480"></iframe> -->
+                      <div style="display: center; text-align: center;width: 100%;">
+                        <iframe src="https://www.google.com/maps/d/embed?mid=1KQ4qbayXSR6e2TQNCNPk7Fs0_nw5qiaz" 
+                      class="coberturamap_prov"
+                      frameborder="0" width="90%" height="600px"></iframe>
+                      </div>
+                      
+                    </div>
+
+                    <p class="h4cobertura h4cobertura-provincia" style="font-size: 40px;margin-left: 30px;">PROVINCIAS</p>
+                    <div class="row">
+                      <p class="prov_cobertura" style="font-size: 25px; margin: 30px 0px 0px 45px;">Arequipa</p><br>
+                      <div class="flexbox-container">
+                        <div>
+                          <p class="prov_cobertura"><span>&#10003;</span>Cayma</p>
+                          <p class="prov_cobertura"><span>&#10003;</span>Cercado de Arequipa</p>
+                        </div>
+                        <div>
+                          <p class="prov_cobertura"><span>&#10003;</span>Cerro Colorado</p>
+                          <p class="prov_cobertura"><span>&#10003;</span>Mariano Melgar</p>
+                        </div>
+                        <div>
+                          <p class="prov_cobertura"><span>&#10003;</span>Miraflores</p>
+                          <p class="prov_cobertura"><span>&#10003;</span>Parcaupata</p>
+                        </div>
+                        <div>
+                          <p class="prov_cobertura"><span>&#10003;</span>Selva Alegre</p>
+                          <p class="prov_cobertura"><span>&#10003;</span>Yanahuara</p>
+                        </div>
+                      </div>
+                        <div style="display: center; text-align: center;width: 100%;">  
+                          <iframe src="https://www.google.com/maps/d/embed?mid=1B8fkctWTf4jDTOksn2l47-HHWsKp2xHh" 
+                          class="coberturamap_prov"
+                          frameborder="0"  width="90%" height="400px"></iframe> 
+                        </div>
+                    
+                        <div class="row" style="width: 100%;">
+                          <p class="prov_cobertura" style="font-size: 25px; margin: 30px 0px 20px 55px;width: 100%;">Cajamarca</p><br>
+                          <div style="display: center; text-align: center;width: 100%;">  
+                            <iframe src="https://www.google.com/maps/d/embed?mid=18ZfiKCvd4ZDaZz6ZOd7WVEq2B-Gf39J5" 
+                                class="coberturamap_prov"
+                                frameborder="0"  width="90%" height="400px"></iframe>
+                          </div>
+                        </div>
+                        <div class="row" style="width: 100%;">
+                            <p class="prov_cobertura" style="font-size: 25px; margin: 30px 0px 0px 55px;">Chiclayo</p><br>
+                            <div class="flexbox-container">
+                              <div>
+                                <p class="prov_cobertura"><span>&#10003;</span>Chiclayo</p>
+                              </div>
+                              <div>
+                                <p class="prov_cobertura"><span>&#10003;</span>Jose Leonardo Ortiz</p>
+                              </div>
+                              <div>
+                                <p class="prov_cobertura"><span>&#10003;</span>La Victoria</p>
+                              </div> 
+                            </div>
+                            <div style="display: center; text-align: center;width: 100%;">  
+                              <iframe src="https://www.google.com/maps/d/embed?mid=1GtW67ApcygyJC3cY-6zmeCmycJ0uLhmB" 
+                                class="coberturamap_prov"
+                                frameborder="0"  width="90%" height="400px"></iframe>
+                            </div>
+                        </div>
+                    
+                    </div>
+
+                    <div class="row">
+                      <p class="prov_cobertura" style="font-size: 25px; margin: 30px 0px 20px 40px;">Cuzco</p><br>
+                      <div style="display: center; text-align: center;width: 100%;">  
+                        <iframe src="https://www.google.com/maps/d/embed?mid=1KsKf2pGXE0-ToSboaTZf744PIkQS9cTP" 
+                            class="coberturamap_prov"
+                            frameborder="0"  width="90%" height="400px"></iframe>
+                      </div>
+                    </div>
+
+                    <div class="row">
+                      <p class="prov_cobertura" style="font-size: 25px; margin: 30px 0px 20px 40px;">Ica</p><br>
+                      <div style="display: center; text-align: center;width: 100%;">  
+                        <iframe src="https://www.google.com/maps/d/embed?mid=1FsumENRxve-CsrrRF_1L6Cx8ILWEWZ_o" 
+                            class="coberturamap_prov"
+                            frameborder="0"  width="90%" height="400px"></iframe>
+                      </div>
+                    </div>
+
+                    <div class="row">
+                        <p class="prov_cobertura" style="font-size: 25px; margin: 30px 0px 0px 40px;">Piura</p><br>
+                        <div class="flexbox-container">
+                          <div>
+                            <p class="prov_cobertura"><span>&#10003;</span>Castilla</p>
+                          </div>
+                          <div>
+                            <p class="prov_cobertura"><span>&#10003;</span>Piura</p>
+                          </div>
+                          <div>
+                            <p class="prov_cobertura"><span>&#10003;</span>26 de Octubre</p>
+                          </div> 
+                        </div>
+                        <div style="display: center; text-align: center;width: 100%;">  
+                          <iframe src="https://www.google.com/maps/d/embed?mid=19jqD-INSWqp5AZCRvtQxCQKmDr2Sqiu9" 
+                            class="coberturamap_prov"
+                            frameborder="0"  width="90%" height="400px"></iframe>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <p class="prov_cobertura" style="font-size: 25px; margin: 30px 0px 0px 40px;">Trujillo</p><br>
+                        <div class="flexbox-container">
+                          <div>
+                            <p class="prov_cobertura"><span>&#10003;</span>Florencia de Mora</p>
+                          </div>
+                          <div>
+                            <p class="prov_cobertura"><span>&#10003;</span>Huanchaco</p>
+                          </div>
+                          <div>
+                            <p class="prov_cobertura"><span>&#10003;</span>La Esperanza</p>
+                          </div>
+                          <div>
+                            <p class="prov_cobertura"><span>&#10003;</span>Trujillo</p>
+                          </div>
+                          <div>
+                            <p class="prov_cobertura"><span>&#10003;</span>Victor Larco</p>
+                          </div> 
+                        </div>
+                        <div style="display: center; text-align: center;width: 100%;">  
+                          <iframe src="https://www.google.com/maps/d/embed?mid=1RarEDprLhoykjyoKZS6ECU-iyPG3s1FW" 
+                            class="coberturamap_prov"
+                            frameborder="0"  width="90%" height="400px"></iframe>
+                        </div>
+                    </div>
+
+                </div>
+
+            </section>
+
+            <section class="ttl-landing-guidelines-banner-secundario">
+              
+              <picture>
+                <source media="(min-width:992px)" srcset="https://images.ctfassets.net/3l9pjbe21mqv/2ovOHgADAWkmJ1T0qiQnw8/5ed8faf0e88ee296798b74968a1b8b6f/fazil_bloque_2.jpg">
+                <source media="(min-width:768px)" srcset="https://images.ctfassets.net/3l9pjbe21mqv/2ovOHgADAWkmJ1T0qiQnw8/5ed8faf0e88ee296798b74968a1b8b6f/fazil_bloque_2.jpg">
+                <source media="(min-width:320px)" srcset="https://images.ctfassets.net/3l9pjbe21mqv/2ovOHgADAWkmJ1T0qiQnw8/5ed8faf0e88ee296798b74968a1b8b6f/fazil_bloque_2.jpg">
+                <img class="img-fondo width-100" src="https://images.ctfassets.net/3l9pjbe21mqv/2ovOHgADAWkmJ1T0qiQnw8/5ed8faf0e88ee296798b74968a1b8b6f/fazil_bloque_2.jpg">
+              </picture> 
+
+            </section>
+
+            <section class="ttl-landing-guidelines-banner-secundario">
+              
+              <picture>
+                <source media="(min-width:992px)" srcset="https://images.ctfassets.net/3l9pjbe21mqv/2CT2BbFLp3CCYbhEG2Ml8j/5c3a54c5852d35388d683638a63406b8/fazil_bloque_3.png">
+                <source media="(min-width:768px)" srcset="https://images.ctfassets.net/3l9pjbe21mqv/2CT2BbFLp3CCYbhEG2Ml8j/5c3a54c5852d35388d683638a63406b8/fazil_bloque_3.png">
+                <source media="(min-width:320px)" srcset="https://images.ctfassets.net/3l9pjbe21mqv/384SvtP5BeyImE1qoHBVMQ/4fe110fd39c75a3dbc3ee5fd00610ced/fazil_bloque_mob_3.jpg">
+                <img class="img-fondo width-100" src="https://images.ctfassets.net/3l9pjbe21mqv/2CT2BbFLp3CCYbhEG2Ml8j/5c3a54c5852d35388d683638a63406b8/fazil_bloque_3.png">
+              </picture> 
+
+            </section>
+
+            <section class="ttl-landing-guidelines-banner-pie position-relative">
+              
+              <picture>
+                <source media="(min-width:992px)" srcset="https://images.ctfassets.net/3l9pjbe21mqv/7tuQ4X5wVGU9gWhYZOmdyl/46e9c3012c5305e7cd34a968df6c942d/fazil_bloque_4.jpg">
+                <source media="(min-width:768px)" srcset="https://images.ctfassets.net/3l9pjbe21mqv/7tuQ4X5wVGU9gWhYZOmdyl/46e9c3012c5305e7cd34a968df6c942d/fazil_bloque_4.jpg">
+                <source media="(min-width:320px)" srcset="https://images.ctfassets.net/3l9pjbe21mqv/202aSphOHM1gvOHrkJLmYK/71c526502fa4390fe30fc5eeadc51968/fazil_bloque_mob_4.jpg">
+                <img class="img-fondo width-100" src="https://images.ctfassets.net/3l9pjbe21mqv/7tuQ4X5wVGU9gWhYZOmdyl/46e9c3012c5305e7cd34a968df6c942d/fazil_bloque_4.jpg">
+              </picture> 
+
+              <div class="ttl-landing-banner-principal-botom-pie">
+
+                <ul class="ttl-landing-banner-principal-botom-pie-lista">
+                    <li><a href="https://urldefense.com/v3/__https://play.google.com/store/apps/details?id=com.tottus__;!!N96JrnIq8IfO5w!y4qrF15EOynOslWFnm-U2xdexDjXu9ZNgrobkgDLix1yZ18ze_Wafh85fCgzPvRa5_1lfw$"><img class="banner-principal-pie-imagen" src="https://images.ctfassets.net/3l9pjbe21mqv/4NodkJw4ZlwlDzO4aUKoKd/4e8aad548c77d718a48c95b5fa712222/rrss_1.png"></a></li>
+                    <li><a href="https://urldefense.com/v3/__https://apps.apple.com/cl/app/fazil/id1476096203__;!!N96JrnIq8IfO5w!y4qrF15EOynOslWFnm-U2xdexDjXu9ZNgrobkgDLix1yZ18ze_Wafh85fCgzPvQL37cG8A$"><img class="banner-principal-pie-imagen" src="https://images.ctfassets.net/3l9pjbe21mqv/2aYMta9PxGPc7IStZvm90I/6f092db19557bacffdafe4e69ac08589/rrss_2.png"></a></li>
+                </ul>
+                  
+              </div>
+
+            </section> 
 
         </main>
 
@@ -456,6 +693,19 @@
         overlay.classList.remove("show");
     })
 
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
 
+    for (i = 0; i < coll.length; i++) {
+      coll[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var content = this.nextElementSibling;
+        if (content.style.display === "block") {
+          content.style.display = "none";
+        } else {
+          content.style.display = "block";
+        }
+      });
+    }
 
 </script>
