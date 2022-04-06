@@ -144,18 +144,6 @@
 
                     <p class="ttl-landing-guidelines-cobertura-titulo">NUESTRA COBERTURA</p>
                     <p class="ttl-landing-guidelines-pais-titulo">CHILE</p>
-                    
-                    
-                    <div class="row justify-content-center padding-bottom-30">
-
-                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-
-                            <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1AZ_gWMWB4siuRGeVvRXmMBE4jGaAv5Mw&ll=-30.460717436073804%2C-71.75426305&z=6" 
-                    class="cobertura-chile-map-desktop" frameborder="0"></iframe>   
-
-                        </div>
-                            
-                    </div>
 
                 </div>
 
@@ -163,7 +151,7 @@
 
                     <div class="container">
 
-                        <button type="button" class="collapsible collapsible-titulo"><span>✓</span>REGIÓN METROPOLITANA <i class="fa fa-caret-down fa-lg"></i></button>
+                        <button type="button" class="collapsible collapsible-titulo"><span>✓</span>REGIÓN METROPOLITANA<i class="fa fa-caret-down fa-lg"></i></button>
                         <div class="content">
                             <ul class="ttl-landing-cobertura-lista">
                                 <li><span>Maipú</span></li>
@@ -283,6 +271,13 @@
                                         <li><span>Santiago Centro</span></li>
                                         <li><span>Independencia</span></li>
                                         <li><span>Puente Alto</span></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
+                                <div class="ttl-landing-cobertura-items-desktop">
+                                    <p class="cobertura-item-titulo">&nbsp;</p>
+                                    <ul class="ttl-landing-cobertura-item-desktop">
                                         <li><span>San Miguel</span></li>
                                         <li><span>Macul</span></li>
                                         <li><span>Estación Central</span></li>
@@ -345,10 +340,6 @@
                                         <li><span>Maipu</span></li>
                                         <li><span>Cerrillos</span></li>
                                     </ul>
-                                </div>
-                            </div>
-                            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 col-xl-3">
-                                <div class="ttl-landing-cobertura-items-desktop">
                                     <p class="cobertura-item-titulo"><span>✓</span>FALABELLA</p>
                                     <ul class="ttl-landing-cobertura-item-desktop">
                                         <li><span>Las Condes</span></li>
@@ -360,9 +351,19 @@
                                     </ul>
                                 </div>
                             </div>
-
                         </div>
 
+                    </div>
+
+                    <div class="row justify-content-center padding-bottom-30">
+
+                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+
+                            <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1AZ_gWMWB4siuRGeVvRXmMBE4jGaAv5Mw&ll=-30.460717436073804%2C-71.75426305&z=6" 
+                    class="cobertura-chile-map-desktop" frameborder="0"></iframe>   
+
+                        </div>
+                            
                     </div>
 
                 </div>
